@@ -1,0 +1,8 @@
+Phần 1:
+1. Sai chỗ quy đổi từ 4000MB sang GB theo hệ nhị phân
+2. Nguyên nhân dẫn đến sai kết quả là do 4000MB sang 4GB là theo hệ thập phân còn đúng phải là = 3,90625 GB theo hệ nhị phân
+
+Phần 2:
+3. Tổng dung lượng đã sử dụng là : 3,90625 + 40 + 100 = 143,90625 GB
+4. Dung lượng còn trống của ổ cứng: 256 - 143,90625 = 112,09375 GB
+5. Nếu lưu thêm 500 bài hát với 5MB/bài thì vẫn đủ vì: 5MB x 500 = 2500 MB thì theo hệ nhị phân sẽ là 2,44140625 GB sau đó + thêm 143,90625 sẽ ra tổng dung lượng sử dụng là 146,3476563 GB thì vẫn ổ cứng vẫn còn dư 109,6523438 GB 
